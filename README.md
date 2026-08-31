@@ -11,8 +11,8 @@ Hypothesis Testing: Compared price distributions across different rating tiers u
 Anomaly Detection: Identified extreme price outliers (the cheapest and most expensive books) using the Interquartile Range (IQR) method. 
 
 **Visualizations:**
-Price and Rating Distributions
-Price by Rating Analysis
+Price and Rating Distributions.
+Price by Rating Analysis.
 
 **How to Run**
 pip install pandas matplotlib
